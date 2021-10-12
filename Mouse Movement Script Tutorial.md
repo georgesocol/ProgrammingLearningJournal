@@ -1,4 +1,4 @@
-#Mouse Movement Script Tutorial
+# Mouse Movement Script Tutorial
 
 ## 1. Create a new scene
 
