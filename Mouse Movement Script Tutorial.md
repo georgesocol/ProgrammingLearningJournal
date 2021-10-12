@@ -96,3 +96,6 @@ We add an `if` statement where we check if we have an object that is selected or
 
 If the variable has a value, then the object will be moved following the position the mouse has on the screen. We also add the `offset` variable to the `mousePosition` to let the script know that we can drag the object from any point on the surface of the object.
 
+## 6. Test
+
+Now you can test if the script works by playing the scene and dragging the object around by clicking on it.
